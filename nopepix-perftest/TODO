@@ -1,0 +1,5 @@
+Define a distribution of calls:
+  For every 100 inserts => 1 delete => 10 updates => 100,000 reads
+  
+Simulate 1000 concurrent users
+Viewing frequency 10 photos/viewer/sec
